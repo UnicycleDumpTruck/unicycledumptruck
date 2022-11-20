@@ -1,4 +1,5 @@
 ### Hi there 👋
+You can also find me on <a rel="me" href="https://mastodon.online/@unicycle">Mastodon</a>
 
 <!--
 **UnicycleDumpTruck/unicycledumptruck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
